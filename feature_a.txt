@@ -1,0 +1,6 @@
+I am adding a new feature to master repository
+
+If you are able to see this feature_a.txt file 
+
+then it is succesfull
+
